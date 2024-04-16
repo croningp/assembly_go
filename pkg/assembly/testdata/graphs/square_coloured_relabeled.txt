@@ -1,0 +1,5 @@
+Square Graph (coloured)
+0 1 2 3
+0 1 1 2 2 3 3 0
+Red Blue Red Blue
+A B B A

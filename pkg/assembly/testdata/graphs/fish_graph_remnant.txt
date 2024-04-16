@@ -1,0 +1,5 @@
+Fish Graph - remnant
+6 9 8 10
+8 9 6 9 9 10
+B A B A
+Y Y X

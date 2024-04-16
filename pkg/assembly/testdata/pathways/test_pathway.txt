@@ -1,0 +1,8 @@
+!PATHWAY
+square.txt
+!REMNANT
+square.txt
+square.txt
+!DUPLICATES
+0 1
+1 2

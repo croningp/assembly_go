@@ -1,0 +1,5 @@
+Aspirin substructure error test 2
+3 10 11
+3 10 10 11
+O C O
+single double

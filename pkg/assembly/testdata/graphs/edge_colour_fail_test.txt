@@ -1,0 +1,5 @@
+Edge Colour Graph Failure Test
+4 6 2 7 3 8 1 9 5 10
+1 2 1 9 2 7 3 8 4 6 5 10 6 7 6 9 7 8 7 10
+C0 C1 B0 B1 B0 B1 C0 C1 C0 C1
+!
